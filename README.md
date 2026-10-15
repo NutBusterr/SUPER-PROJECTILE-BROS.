@@ -1,7 +1,5 @@
 # Super Projectile Bros
 
-[![Play Game](https://shields.io)](https://pyroom.app.)
-
 A Mario-themed projectile motion calculator built with Python and Tkinter. Enter known launch and motion values to solve for the remaining variables and visualize the fireball's path.
 
 ## Requirements
