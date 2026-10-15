@@ -1,3 +1,4 @@
+[![Open in GitHub Codespaces](https://github.com)](https://codespaces.new.)
 # Super Projectile Bros
 
 A Mario-themed projectile motion calculator built with Python and Tkinter. Enter known launch and motion values to solve for the remaining variables and visualize the fireball's path.
